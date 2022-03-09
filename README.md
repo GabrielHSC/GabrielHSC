@@ -1,7 +1,7 @@
 ## Gabriel - Hi there!! Suave?
 
 - I'm currently working on student - Estudante
-- I'm currently learning on Faculty of analysis system development - Fatec of Mogi das Cruzas, SP - Brasil
+- I'm currently learning on Faculty of analysis system development - Fatec de Mogi das Cruzas, SP - Brasil
 - I'm looking to collaborate on technology news - (Novidades tecnologicas) 
 - I'm looking for help with implementation of new systems - (Impelmentação de novos sistemas)
 - Ask me about Dogs - (Cachorros)
