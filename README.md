@@ -1,9 +1,9 @@
 ## Gabriel - Hi there!! Suave?
 
-- I'm currently working on student - Estudante
-- I'm currently learning on Faculty of analysis system development - Fatec de Mogi das Cruzas, SP - Brasil
+- I'm currently on student - Estudante
+- I'm currently learning on Faculty of analysis system development - Fatec de Mogi das Cruzes, SP - Brasil
 - I'm looking to collaborate on technology news - (Novidades tecnologicas) 
-- I'm looking for help with implementation of new systems - (Impelmentação de novos sistemas)
+- I'm looking for help with implementation of new systems - (Implementação de novos sistemas)
 - Ask me about Dogs - (Cachorros)
 - Pronouns: Him/His - (Ele / Dele)
 
